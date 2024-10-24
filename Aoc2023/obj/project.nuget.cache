@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jxQlOg9EX9IUHhjFEvRbCSwkZ7K+FnYMpELggZn5bho59T0acsVIr2jLLxAJDPCw1JwnKHruv2Hxqw/sumxDgw==",
+  "dgSpecHash": "05y83Bg21Kzyz7IYSvcd5MeoBVRNlie1b7Mbl/z7nN76KJc6w1PRU1ef2cCqNRXFsgd04/WYHhZ50k1qRgMBmQ==",
   "success": true,
-  "projectFilePath": "/Users/yohan.jayarathna/Documents/Code/Learning/Dotnet/Aoc2023/Aoc2023/Aoc2023.csproj",
+  "projectFilePath": "/Users/yohan.jayarathna/Documents/Code/source/advent-of-code-2023/Aoc2023/Aoc2023.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

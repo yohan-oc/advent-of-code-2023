@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/yohan.jayarathna/Documents/Code/Learning/Dotnet/Aoc2023/Aoc2023/Aoc2023.csproj": {}
+    "/Users/yohan.jayarathna/Documents/Code/source/advent-of-code-2023/Aoc2023/Aoc2023.csproj": {}
   },
   "projects": {
-    "/Users/yohan.jayarathna/Documents/Code/Learning/Dotnet/Aoc2023/Aoc2023/Aoc2023.csproj": {
+    "/Users/yohan.jayarathna/Documents/Code/source/advent-of-code-2023/Aoc2023/Aoc2023.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/yohan.jayarathna/Documents/Code/Learning/Dotnet/Aoc2023/Aoc2023/Aoc2023.csproj",
+        "projectUniqueName": "/Users/yohan.jayarathna/Documents/Code/source/advent-of-code-2023/Aoc2023/Aoc2023.csproj",
         "projectName": "Aoc2023",
-        "projectPath": "/Users/yohan.jayarathna/Documents/Code/Learning/Dotnet/Aoc2023/Aoc2023/Aoc2023.csproj",
+        "projectPath": "/Users/yohan.jayarathna/Documents/Code/source/advent-of-code-2023/Aoc2023/Aoc2023.csproj",
         "packagesPath": "/Users/yohan.jayarathna/.nuget/packages/",
-        "outputPath": "/Users/yohan.jayarathna/Documents/Code/Learning/Dotnet/Aoc2023/Aoc2023/obj/",
+        "outputPath": "/Users/yohan.jayarathna/Documents/Code/source/advent-of-code-2023/Aoc2023/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/yohan.jayarathna/.nuget/NuGet/NuGet.Config"

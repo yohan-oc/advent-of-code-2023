@@ -1008,11 +1008,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yohan.jayarathna/Documents/Code/Learning/Dotnet/Aoc2023/Aoc2023Tests/Aoc2023Tests.csproj",
+      "projectUniqueName": "/Users/yohan.jayarathna/Documents/Code/source/advent-of-code-2023/Aoc2023Tests/Aoc2023Tests.csproj",
       "projectName": "Aoc2023Tests",
-      "projectPath": "/Users/yohan.jayarathna/Documents/Code/Learning/Dotnet/Aoc2023/Aoc2023Tests/Aoc2023Tests.csproj",
+      "projectPath": "/Users/yohan.jayarathna/Documents/Code/source/advent-of-code-2023/Aoc2023Tests/Aoc2023Tests.csproj",
       "packagesPath": "/Users/yohan.jayarathna/.nuget/packages/",
-      "outputPath": "/Users/yohan.jayarathna/Documents/Code/Learning/Dotnet/Aoc2023/Aoc2023Tests/obj/",
+      "outputPath": "/Users/yohan.jayarathna/Documents/Code/source/advent-of-code-2023/Aoc2023Tests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/yohan.jayarathna/.nuget/NuGet/NuGet.Config"
@@ -1027,8 +1027,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/yohan.jayarathna/Documents/Code/Learning/Dotnet/Aoc2023/Aoc2023/Aoc2023.csproj": {
-              "projectPath": "/Users/yohan.jayarathna/Documents/Code/Learning/Dotnet/Aoc2023/Aoc2023/Aoc2023.csproj"
+            "/Users/yohan.jayarathna/Documents/Code/source/advent-of-code-2023/Aoc2023/Aoc2023.csproj": {
+              "projectPath": "/Users/yohan.jayarathna/Documents/Code/source/advent-of-code-2023/Aoc2023/Aoc2023.csproj"
             }
           }
         }

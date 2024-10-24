@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oppVNkj2cX4eYi0iXHJ8UNHYpFR4YP7vHyKR7cd+1iudBiPcoslTIIYZwSrs8QZNCEarP4BliifpPawB8YyXlw==",
+  "dgSpecHash": "I+dZz3724IlrNBMlB52Flvz/N3foz1IhNRPPRX37x7L4zcgQ2tLQSAfGMw5zQZc6xvpxfGTF/V7n20gQgC3v5A==",
   "success": true,
-  "projectFilePath": "/Users/yohan.jayarathna/Documents/Code/Learning/Dotnet/Aoc2023/Aoc2023Tests/Aoc2023Tests.csproj",
+  "projectFilePath": "/Users/yohan.jayarathna/Documents/Code/source/advent-of-code-2023/Aoc2023Tests/Aoc2023Tests.csproj",
   "expectedPackageFiles": [
     "/Users/yohan.jayarathna/.nuget/packages/coverlet.collector/3.2.0/coverlet.collector.3.2.0.nupkg.sha512",
     "/Users/yohan.jayarathna/.nuget/packages/microsoft.codecoverage/17.5.0/microsoft.codecoverage.17.5.0.nupkg.sha512",

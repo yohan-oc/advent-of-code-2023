@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Aoc2023Tests
-build_property.ProjectDir = /Users/yohan.jayarathna/Documents/Code/Learning/Dotnet/Aoc2023/Aoc2023Tests/
+build_property.ProjectDir = /Users/yohan.jayarathna/Documents/Code/source/advent-of-code-2023/Aoc2023Tests/
